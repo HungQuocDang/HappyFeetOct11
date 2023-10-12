@@ -44,8 +44,8 @@ function Nav() {
       <h1>
         <Link to="/">
           {/* <span role="img" aria-label="shopping bag">🛍️   🛍️ </span> */}
-          <span role="img" aria-label="shopping bag">     </span>
-          Happy-Feet-Shop
+          <span role="img" aria-label="shopping bag">   👀...👀...  </span>
+          Happy-Feet-Shop ...👀...👀
         </Link>
       </h1>
 
