@@ -22,8 +22,8 @@ function Success() {
       }
 
       setTimeout(() => {
-        window.location.assign('/');
-      }, 3000);
+        window.location.assign('/orderHistory');
+      }, 6000);
     }
 
     saveOrder();
